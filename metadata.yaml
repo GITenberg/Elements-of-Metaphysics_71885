@@ -1,0 +1,30 @@
+_repo: Elements-of-Metaphysics_71885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, A. E. (Alfred Edward)
+    alias: Taylor, Alfred Edward
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '44565'
+    url: http://www.gutenberg.org/2009/agents/44565
+description: ''
+gutenberg_issued: '2023-10-15'
+identifiers:
+  gutenberg: '71885'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.461950/
+pgterms:marc905: 20200410135352taylor
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, KD Weeks and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bMethuen, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elements of Metaphysics
+url: http://www.gutenberg.org/ebooks/71885
